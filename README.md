@@ -1,24 +1,22 @@
 # Social-Network-Analysis-Presentation
-Data Science Project aimed at studying the Eelisa Water Research Community through an Analysis of Email data, to provide Meaningful Insights to Enhance Collaboration and General Awareness.
+The objective of this Data Analysis Project is to explore a research community through their email interactions, aiming to derive insights that can enhance Collaboration and raise Awareness.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This research project was carried out from September to December 2022 through a grant awarded to me by Technical University of Madrid (UPM). The project directors were Dr Peter Gloor (MiT) and Dr Juan Garbajosa (UPM). I was in charge of data collection, cleaning, processing and presentation of results.
 
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Álvaro Francisco Gil 
+[LinkedIn](https://www.linkedin.com/in/alvaro-francisco-gil/)
 
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* Peter Gloor (MiT)
+* Juan Garbajosa (UPM)
+* Carlos Alonso (Eelisa Water)
+* [Eelisa Water Community](https://blogs.upm.es/waterchange/)
+* [Technical University of Madrid](https://www.upm.es/internacional)
+* [MiT Center for Collective Intelligence](https://cci.mit.edu/)
